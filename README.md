@@ -16,7 +16,7 @@ Introduction to legacy code and third-party APIs as a means to expand the pallet
 
 # Website
 
-<?>
+https://pseudodjnn.github.io/Work-Day-Scheduler/
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/105378214/184509709-6871a22c-2b77-4781-8d86-cfb8ee7b0e53.png)
 
